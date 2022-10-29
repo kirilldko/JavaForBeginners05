@@ -8,6 +8,7 @@ public class test {
         for(int i =0; i<10;i++) {
             int num =(int) (Math.random()*(10 ));
             System.out.println(num);
+            System.out.println(num);
 
         }
 

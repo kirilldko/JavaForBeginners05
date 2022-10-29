@@ -9,6 +9,7 @@ public class test {
             int num =(int) (Math.random()*(10 ));
             System.out.println(num);
             System.out.println(num);
+            // перчать
 
         }
 
